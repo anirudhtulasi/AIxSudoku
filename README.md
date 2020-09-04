@@ -21,7 +21,7 @@ Fri 4 Sep 02:00 PM
 
 ## Latest Development Changes
 ```bash
-git clone https://github.com/anirudhtulasi/RNAxDNA
+git clone https://github.com/anirudhtulasi/AIxSudoku
 ```
 
 ## Screenshots
