@@ -29,7 +29,11 @@ git clone https://github.com/anirudhtulasi/AIxSudoku
 <p align="center"><img width=95% src="https://github.com/anirudhtulasi/AIxSudoku/blob/master/Screenshot%202020-09-04%20at%202.19.37%20PM.png"></p>
 <p align="center"><img width=95% src="https://github.com/anirudhtulasi/AIxSudoku/blob/master/Screenshot%202020-09-04%20at%202.19.45%20PM.png"></p>
 
-
+## Notes
+Incase the jupyter notebook doesn’t load use the below nbviewer link.
+```bash
+https://nbviewer.jupyter.org/github/anirudhtulasi/AIxSudoku/blob/master/sudoku-4x4.ipynb
+```
 
 ## Contributing
 Please take a look at our [contributing](https://github.com/anirudhtulasi/RNAxDNA/blob/master/Contributing.md) guidelines if you're interested in helping!
