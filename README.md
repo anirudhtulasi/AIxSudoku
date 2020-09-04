@@ -16,7 +16,7 @@ This is a Constraint Satisfaction Problem (CSP) in the field of Artificial Intel
 
 ## Last Stable Release
 ```python
-Fri 4 Sep 11:00 AM
+Fri 4 Sep 02:00 PM
 ```
 
 ## Latest Development Changes
